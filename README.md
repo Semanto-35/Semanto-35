@@ -1,82 +1,78 @@
-<h1 align="center">Hi, I'm Sabbir Hossain Semanto! 👋</h1>
-<h3 align="center">Frontend Web Developer | React & JavaScript Enthusiast 🚀</h3>
+<div align="center">
+  <img height="200" src="https://github.com/Semanto-35/Semanto-35/blob/main/banner.png"  />
+</div>
 
+###
+<h1 align="center">Hi 👋, I'm Sabbir Hossain Semanto</h1>
+<p align="center">Frontend Web Developer | MERN Stack Enthusiast 🚀</p>
+
+###
+<h2 align="center">🚀 About Me</h2>
+
+###
 <p align="center">
-  <a href="https://github.com/SabbirHossainSemanto"><img src="https://img.shields.io/github/followers/SabbirHossainSemanto?label=Follow&style=social"></a>
-  <a href="mailto:sabbirhossainsemanto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
+    Hello! I'm <b>Sabbir Hossain Semanto</b>, a passionate <b>Frontend Web Developer</b> 
+    with a love for building scalable and efficient web applications. I specialize in 
+    <b>Html, Css, JavaScript, React, Node.js, mongoDB</b> and enjoy solving complex problems 
+    with creative solutions. I'm always eager to learn new technologies and want to express my innovative,
+    creative skills for company growth through the assigned responsibility.
 </p>
+  
+###
+<h2 align="center">🛠 My Skilled Languages & Tools</h2>
 
----
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,firebase" />
+</div>
 
-### 🚀 **About Me**
-- 🔭 I’m currently working on **[Your Latest Project Name](GitHub Repo Link)**  
-- 🌱 I’m currently learning **Next.js & TypeScript**  
-- 💬 Ask me about **React, JavaScript, and Frontend Development**  
-- 📫 How to reach me: **sabbirhossainsemanto@gmail.com**  
-- ⚡ Fun fact: **I love solving coding challenges & exploring new tech!**  
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</div>
 
----
+###
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</div>
 
-### 🛠 **Tech Stack & Tools**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,redux,nodejs,express,mongodb,firebase,git,github,vscode" />
-</p>
+###
+ <h2 align="center">🔥 Current Activities</h2>
 
----
+###
+ <ul>
+      <li>💻 I am a passionate Frontend Developer with expertise in building user-friendly web applications.</li>
+      <li>🌱 I’m currently learning <b>Next.js & TypeScript</b></li>
+      <li>🚀 I’m working on a <b>Car Services website</b> project.</li>
+      <li>🎯 Exploring <b>TypeScript & AI-powered web applications</b>.</li>
+      <li>💬 Ask me about <b>React, JavaScript, and Frontend Development</b>.</li>
+      <li>📫 How to reach me: <a href="mailto:sabbirhossainsemanto@gmail.com">sabbirhossainsemanto@gmail.com</a></li>
+      <li>📍 Based in [Mymensingh, Bangladesh].</li>
+      <li>⚡ Fun fact: I love coffee and late-night coding sessions!</li>
+  </ul>
 
-### 📌 **Pinned Projects**
-🚀 **[Project 1 Name](GitHub Repo Link)**  
-📌 *Brief description of what the project does and tech stack used.*  
+###
+<h2 align="center">📬 Connect with Me:</h2>
 
-🚀 **[Project 2 Name](GitHub Repo Link)**  
-📌 *Brief description of what the project does and tech stack used.*  
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/sabbir-hossain-semanto-22a40934b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/semanto3521" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/Semanto_35" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+</div>
 
-🚀 **[Project 3 Name](GitHub Repo Link)**  
-📌 *Brief description of what the project does and tech stack used.*  
+###
+<h2 align="center">📊 My GitHub Stats</h2>
 
-🔗 **See more projects:** [GitHub Repositories](https://github.com/SabbirHossainSemanto?tab=repositories)  
-
----
-
-### 📊 **GitHub Stats & Activity**
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SabbirHossainSemanto&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SabbirHossainSemanto&theme=radical" />
-</p>
-
----
-
-### 🌟 **Latest Blog Posts** _(Optional)_
-📌 **[Title of Blog 1](Blog Link)**  
-📌 **[Title of Blog 2](Blog Link)**  
-
----
-
-### 📫 **Connect With Me**
-<p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue"></a>
-  <a href="mailto:sabbirhossainsemanto@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue"></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-blue"></a>
-</p>
-
----
-
-**💡 Fun Fact:** *"The best way to learn is to build. Keep coding, keep learning!"* 🚀  
-
----
-
-### **📌 How to Use This**
-1. Replace `SabbirHossainSemanto` with your **GitHub username**.  
-2. Update your **email, LinkedIn, and project links**.  
-3. Commit the file and push it to your GitHub profile repository.  
-
----
-
-### **🔥 Bonus:**  
-Want to make it even better? Add **GitHub trophies, activity graphs, and visitor counters**:  
-```markdown
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SabbirHossainSemanto&theme=radical" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SabbirHossainSemanto&theme=react-dark" />
-</p>
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Semanto-35&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Semanto-35&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Semanto-35&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
